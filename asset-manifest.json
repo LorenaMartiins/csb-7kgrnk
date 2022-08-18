@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lorenamartiins.github.io/csb-7kgrnk/static/css/main.a581f5b8.chunk.css",
+    "main.js": "https://lorenamartiins.github.io/csb-7kgrnk/static/js/main.8009c8ee.chunk.js",
+    "main.js.map": "https://lorenamartiins.github.io/csb-7kgrnk/static/js/main.8009c8ee.chunk.js.map",
+    "runtime-main.js": "https://lorenamartiins.github.io/csb-7kgrnk/static/js/runtime-main.d02fb898.js",
+    "runtime-main.js.map": "https://lorenamartiins.github.io/csb-7kgrnk/static/js/runtime-main.d02fb898.js.map",
+    "static/js/2.e0bd613a.chunk.js": "https://lorenamartiins.github.io/csb-7kgrnk/static/js/2.e0bd613a.chunk.js",
+    "static/js/2.e0bd613a.chunk.js.map": "https://lorenamartiins.github.io/csb-7kgrnk/static/js/2.e0bd613a.chunk.js.map",
+    "index.html": "https://lorenamartiins.github.io/csb-7kgrnk/index.html",
+    "static/css/main.a581f5b8.chunk.css.map": "https://lorenamartiins.github.io/csb-7kgrnk/static/css/main.a581f5b8.chunk.css.map",
+    "static/js/2.e0bd613a.chunk.js.LICENSE.txt": "https://lorenamartiins.github.io/csb-7kgrnk/static/js/2.e0bd613a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d02fb898.js",
+    "static/js/2.e0bd613a.chunk.js",
+    "static/css/main.a581f5b8.chunk.css",
+    "static/js/main.8009c8ee.chunk.js"
+  ]
+}
